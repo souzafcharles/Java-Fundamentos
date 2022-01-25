@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Charles\OneDrive\Documentos\Cursos Livres\FIAP\Java-Fundamentos\Chapter-02-IDES-Variables-Conversions-Hello-World\.metadata\.plugins\org.eclipse.jdt.core
+2196199803.index
+2048855678.index
