@@ -6,11 +6,15 @@ package org.souza.charles;
  * Date: January 22, 2022
  */
 
+public class TypeConversion {
 
-public class HelloWorld {
-	
 	public static void main(String[] args) {
+		int x = 10;
+		double y = (double) x;
+		System.out.println(y);
 		
-		System.out.print("Hello, World!");
+		double valorDouble = 9.99;
+		int valorInt = (int) valorDouble;
+		System.out.println(valorInt);
 	}
 }

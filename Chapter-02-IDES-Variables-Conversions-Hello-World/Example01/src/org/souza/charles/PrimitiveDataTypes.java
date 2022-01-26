@@ -6,11 +6,17 @@ package org.souza.charles;
  * Date: January 22, 2022
  */
 
+public class PrimitiveDataTypes {
 
-public class HelloWorld {
-	
 	public static void main(String[] args) {
-		
-		System.out.print("Hello, World!");
+		int x = 10;
+		double d = x;
+		long l = x;
+		float f = x;
+
+		System.out.println(x);
+		System.out.println(d);
+		System.out.println(l);
+		System.out.println(f);
 	}
 }
