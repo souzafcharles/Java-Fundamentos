@@ -15,7 +15,7 @@
 
 :open_file_folder: Chapter 2 - [IDES, Variáveis, Conversões e Hello World](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-02-IDES-Variables-Conversions-Hello-World)
 
-:open_file_folder: Chapter 3 - Classe, métodos, atributos 
+:open_file_folder: Chapter 3 - Classe, Métodos, Atributos 
 
 :open_file_folder: Chapter 4 - Herança 
 
