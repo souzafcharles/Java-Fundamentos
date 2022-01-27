@@ -7,13 +7,13 @@
 # :coffee: Java Fundamentos
 
 :triangular_flag_on_post: Presented by FIAP - Centro Universitário 
-   - :white_square_button: IDE used: [Eclipse](https://www.eclipse.org/)
+   - :white_square_button: IDE used: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
-   - :black_nib: Java Development Kit used: [14](https://www.oracle.com/java/technologies/downloads/)
+   - :black_nib: Java Development Kit used: [17](https://www.oracle.com/java/technologies/downloads/)
 
 ## Chapters Hands On Schedule:
 
-:open_file_folder: Chapter 2 - IDES, Variáveis, Conversões e Hello World 
+:open_file_folder: Chapter 2 - [IDES, Variáveis, Conversões e Hello World](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-02-IDES-Variables-Conversions-Hello-World)
 
 :open_file_folder: Chapter 3 - Classe, métodos, atributos 
 
