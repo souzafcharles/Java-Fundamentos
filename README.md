@@ -7,6 +7,9 @@
 # :coffee: Java Fundamentos
 
 :triangular_flag_on_post: Presented by FIAP - Centro Universitário 
+   - :white_square_button: IDE used: [Eclipse](https://www.eclipse.org/)
+
+   - :black_nib: Java Development Kit used: [14](https://www.oracle.com/java/technologies/downloads/)
 
 ## Chapters Hands On Schedule:
 
