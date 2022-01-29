@@ -3,7 +3,7 @@ package org.souza.charles.entities;
  * Course title: Java Fundamentos
  * Instructor: Leandro Rubim - FIAP
  * Example adapted by: Charles Fernandes de Souza
- * Date: January 27, 2022
+ * Date: January 29, 2022
  */
 
 public class Client {
