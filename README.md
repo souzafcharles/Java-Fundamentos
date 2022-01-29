@@ -17,7 +17,7 @@
 
 :open_file_folder: Chapter 3 - [Classe, Métodos, Atributos](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-03-Class-Methods-Attributes)
 
-:open_file_folder: Chapter 4 - Herança 
+:open_file_folder: Chapter 4 - [Herança](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-04-Inheritance)
 
 :open_file_folder: Chapter 5 - Estruturas de Repetição, Arrays, Strings e Coleções 
 
