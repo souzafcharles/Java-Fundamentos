@@ -6,10 +6,12 @@ package org.souza.charles.entities;
  * Date: January 29, 2022
  */
 
-public class Account {
-    public int agency;
-    public int number;
-    public double balance;
+import java.io.Serializable;
+
+public class Account implements Serializable {
+    private int agency;
+    private int number;
+    private double balance;
 
     public Account() {
     }
@@ -28,8 +30,24 @@ public class Account {
         this.balance -= value;
     }
 
-    public double checkBalance (){
+    public double getBalance (){
         return this.balance;
+    }
+
+    public int getAgency() {
+        return agency;
+    }
+
+    public void setAgency(int agency) {
+        this.agency = agency;
+    }
+
+    public int getNumber() {
+        return number;
+    }
+
+    public void setNumber(int number) {
+        this.number = number;
     }
 }
 
