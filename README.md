@@ -21,7 +21,7 @@
 
 :open_file_folder: Chapter 5 - [Estruturas de Repetição, Arrays, Strings e Coleções](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-05-RepetitionStatements-Arrays-Strings-Collections)
 
-:open_file_folder: Chapter 6 - Exceptions + Vários outros, Design Patterns 
+:open_file_folder: Chapter 6 - [Exceptions + Vários outros, Design Patterns](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-05-RepetitionStatements-Arrays-Strings-Collections)
 
 :open_file_folder: Chapter 7 - Acesso ao Banco de Dados 
   
