@@ -3,9 +3,8 @@ package org.souza.charles.bank.entities;
  * Course title: Java Fundamentos
  * Instructor: Leandro Rubim - FIAP
  * Example adapted by: Charles Fernandes de Souza
- * Date: January 29, 2022
+ * Date: January 30, 2022
  */
-
 import java.io.Serializable;
 
 public class Account implements Serializable {
@@ -50,4 +49,3 @@ public class Account implements Serializable {
         this.number = number;
     }
 }
-
