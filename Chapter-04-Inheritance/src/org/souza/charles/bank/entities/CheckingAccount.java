@@ -24,4 +24,10 @@ public class CheckingAccount extends Account{
     public double getBalanceAvailable(){
         return super.getBalance() + overdraft;
     }
+
+    @Override
+    public void withdraw (double value){
+        value += 10;
+        super.withdraw(value);
+    }
 }
