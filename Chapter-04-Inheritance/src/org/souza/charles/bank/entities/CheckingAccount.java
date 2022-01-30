@@ -1,5 +1,10 @@
 package org.souza.charles.bank.entities;
-
+/**
+ * Course title: Java Fundamentos
+ * Instructor: Leandro Rubim - FIAP
+ * Example adapted by: Charles Fernandes de Souza
+ * Date: January 30, 2022
+ */
 public class CheckingAccount extends Account{
 
     private String type;
