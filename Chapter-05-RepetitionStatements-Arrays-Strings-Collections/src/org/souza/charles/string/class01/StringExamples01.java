@@ -1,6 +1,12 @@
-package org.souza.charles.string;
+package org.souza.charles.string.class01;
+/**
+ * Course title: Java Fundamentos
+ * Instructor: Fernando Lima - FIAP
+ * Example adapted by: Charles Fernandes de Souza
+ * Date: January 31, 2022
+ */
 
-public class StringExamples {
+public class StringExamples01 {
 
     public static void main(String[] args) {
 

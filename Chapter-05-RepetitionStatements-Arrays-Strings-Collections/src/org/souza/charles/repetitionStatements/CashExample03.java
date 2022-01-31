@@ -1,6 +1,4 @@
-package org.souza.charles.repetitionStatements;
-
-/**
+package org.souza.charles.repetitionStatements;/**
  * Course title: Java Fundamentos
  * Instructor: Leandro Rubim - FIAP
  * Example adapted by: Charles Fernandes de Souza
