@@ -1,15 +1,16 @@
-package org.souza.charles.arrays.view;
+package org.souza.charles.arrays.example.view;
 /**
  * Course title: Java Fundamentos
  * Instructor: Leandro Rubim - FIAP
  * Example adapted by: Charles Fernandes de Souza
  * Date: January 30, 2022
  */
-import org.souza.charles.arrays.entity.Product;
+import org.souza.charles.arrays.example.entity.Product;
+
 public class App {
     public static void main(String[] args) {
 
-        Product [] products = new Product[2];
+        Product[] products = new Product[2];
 
         Product product01 = new Product();
         product01.setName("Lemon");

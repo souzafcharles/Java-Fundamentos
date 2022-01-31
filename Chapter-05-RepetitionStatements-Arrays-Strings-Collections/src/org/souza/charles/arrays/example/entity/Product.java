@@ -1,4 +1,10 @@
-package org.souza.charles.arrays.entity;
+package org.souza.charles.arrays.example.entity;
+/**
+ * Course title: Java Fundamentos
+ * Instructor: Fernando Lima - FIAP
+ * Example adapted by: Charles Fernandes de Souza
+ * Date: January 30, 2022
+ */
 
 public class Product {
     String name;
