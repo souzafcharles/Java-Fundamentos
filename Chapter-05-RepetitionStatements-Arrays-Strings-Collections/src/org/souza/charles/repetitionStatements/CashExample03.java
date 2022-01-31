@@ -1,4 +1,5 @@
-package org.souza.charles;
+package org.souza.charles.repetitionStatements;
+
 /**
  * Course title: Java Fundamentos
  * Instructor: Leandro Rubim - FIAP
@@ -9,7 +10,6 @@ public class CashExample03 {
 
     public static void main(String[] args) {
         int quantityOfProducts = 5;
-
         for (int i = 1; i < quantityOfProducts; i++) {
             System.out.println("Product number " + i + " has been registered");
         }

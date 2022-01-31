@@ -1,19 +1,21 @@
-package org.souza.charles;
+package org.souza.charles.repetitionStatements;
 /**
  * Course title: Java Fundamentos
  * Instructor: Leandro Rubim - FIAP
  * Example adapted by: Charles Fernandes de Souza
  * Date: January 30, 2022
  */
-public class CashExample01 {
+public class CashExample02 {
 
     public static void main(String[] args) {
+
         int quantityOfProducts = 5;
         int registration = 0;
 
-        while (registration < quantityOfProducts) {
+        do {
             registration++;
             System.out.println("Product number " + registration + " has been registered");
-        }
+        } while (registration < quantityOfProducts);
+
     }
 }
