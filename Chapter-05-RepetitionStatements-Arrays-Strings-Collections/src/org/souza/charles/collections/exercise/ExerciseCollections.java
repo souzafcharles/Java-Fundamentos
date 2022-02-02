@@ -5,7 +5,6 @@ package org.souza.charles.collections.exercise;
  * Example adapted by: Charles Fernandes de Souza
  * Date: February 01, 2022
  */
-
 import java.util.*;
 
 public class ExerciseCollections {
