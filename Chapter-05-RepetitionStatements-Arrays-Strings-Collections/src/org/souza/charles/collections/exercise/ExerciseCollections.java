@@ -3,7 +3,7 @@ package org.souza.charles.collections.exercise;
  * Course title: Java Fundamentos
  * Instructor: Fernando Lima - FIAP
  * Example adapted by: Charles Fernandes de Souza
- * Date: February 01, 2022
+ * Date: February 02, 2022
  */
 import java.util.*;
 
