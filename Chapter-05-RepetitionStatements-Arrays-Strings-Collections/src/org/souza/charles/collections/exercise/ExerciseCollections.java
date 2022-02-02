@@ -57,7 +57,6 @@ public class ExerciseCollections {
 
         int index = list06.indexOf("Web");
         System.out.println("The value \"Web\" is at position: " + index);
-
         System.out.println("---------------------");
 
         HashSet courses = new HashSet<>();
@@ -69,7 +68,6 @@ public class ExerciseCollections {
         courses.add("Java");
 
         System.out.println(courses);
-
         System.out.println("---------------------");
 
         HashMap map = new HashMap();
@@ -84,11 +82,9 @@ public class ExerciseCollections {
         map.remove("RM1234");
 
         System.out.println(map.get("RM1234"));
-
         System.out.println("---------------------");
 
         ArrayList<Client> listaClient = new ArrayList<Client>();
-
         Client client1 = new Client();
         client1.setName("Epaminondas");
         Client client2 = new Client();
@@ -98,8 +94,38 @@ public class ExerciseCollections {
         listaClient.add(client2);
 
         for (int i = 0; i < listaClient.size(); i++) {
-            Client cli = listaClient.get(i);
-            System.out.println(cli.getName());
+            Client c = listaClient.get(i);
+            System.out.println(c.getName());
+        }
+        System.out.println("---------------------");
+
+        HashSet<Client> setExample = new HashSet<Client>();
+        Client client3 = new Client();
+        client3.setName("Crispin");
+        Client client4 = new Client();
+        client4.setName("Filomena");
+
+        listaClient.add(client3);
+        listaClient.add(client4);
+
+        for (int i = 0; i < listaClient.size(); i++) {
+            Client c = listaClient.get(i);
+            System.out.println(c.getName());
+        }
+        System.out.println("---------------------");
+
+        HashMap<String, Client> mapExample = new HashMap<String, Client>();
+        Client client5 = new Client();
+        client5.setName("Morgana");
+        Client client6 = new Client();
+        client6.setName("Ophelia");
+
+        listaClient.add(client5);
+        listaClient.add(client6);
+
+        for (int i = 0; i < listaClient.size(); i++) {
+            Client c = listaClient.get(i);
+            System.out.println(c.getName());
         }
     }
 }
