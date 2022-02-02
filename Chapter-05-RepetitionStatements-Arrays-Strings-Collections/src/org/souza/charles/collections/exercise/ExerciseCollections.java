@@ -84,5 +84,22 @@ public class ExerciseCollections {
         map.remove("RM1234");
 
         System.out.println(map.get("RM1234"));
+
+        System.out.println("---------------------");
+
+        ArrayList<Client> listaClient = new ArrayList<Client>();
+
+        Client client1 = new Client();
+        client1.setName("Epaminondas");
+        Client client2 = new Client();
+        client2.setName("Guerino");
+
+        listaClient.add(client1);
+        listaClient.add(client2);
+
+        for (int i = 0; i < listaClient.size(); i++) {
+            Client cli = listaClient.get(i);
+            System.out.println(cli.getName());
+        }
     }
 }
