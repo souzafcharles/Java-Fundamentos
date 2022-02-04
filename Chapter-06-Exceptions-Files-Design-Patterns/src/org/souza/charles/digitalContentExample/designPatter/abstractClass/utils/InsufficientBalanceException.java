@@ -1,4 +1,4 @@
-package org.souza.charles.digitalContentExample.designPatter.abstractClass;
+package org.souza.charles.digitalContentExample.designPatter.abstractClass.utils;
 /**
  * Course title: Java Fundamentos
  * Example adapted by: Charles Fernandes de Souza
