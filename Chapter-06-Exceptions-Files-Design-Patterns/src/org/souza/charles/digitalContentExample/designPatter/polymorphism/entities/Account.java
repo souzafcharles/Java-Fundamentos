@@ -1,4 +1,7 @@
-package org.souza.charles.digitalContentExample.designPatter.polymorphism;
+package org.souza.charles.digitalContentExample.designPatter.polymorphism.entities;
+
+import org.souza.charles.digitalContentExample.designPatter.polymorphism.utils.InsufficientBalanceException;
+
 /**
  * Course title: Java Fundamentos
  * Example adapted by: Charles Fernandes de Souza

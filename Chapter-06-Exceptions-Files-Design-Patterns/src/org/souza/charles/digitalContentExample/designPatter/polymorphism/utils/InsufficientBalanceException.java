@@ -1,4 +1,4 @@
-package org.souza.charles.digitalContentExample.designPatter.polymorphism;
+package org.souza.charles.digitalContentExample.designPatter.polymorphism.utils;
 /**
  * Course title: Java Fundamentos
  * Example adapted by: Charles Fernandes de Souza
