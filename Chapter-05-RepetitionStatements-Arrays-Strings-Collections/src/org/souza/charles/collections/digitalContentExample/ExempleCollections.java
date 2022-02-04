@@ -22,7 +22,6 @@ public class ExempleCollections {
 
         System.out.println(cart.get(1));
 
-        //cast
         value3 = (int) cart.get(2);
 
         System.out.println(value);
