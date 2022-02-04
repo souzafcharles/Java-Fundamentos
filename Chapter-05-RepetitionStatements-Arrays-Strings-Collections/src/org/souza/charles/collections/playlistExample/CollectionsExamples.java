@@ -1,4 +1,4 @@
-package org.souza.charles.collections.exercise;
+package org.souza.charles.collections.playlistExample;
 /**
  * Course title: Java Fundamentos
  * Instructor: Fernando Lima - FIAP
@@ -7,7 +7,7 @@ package org.souza.charles.collections.exercise;
  */
 import java.util.*;
 
-public class ExerciseCollections {
+public class CollectionsExamples {
 
     public static void main(String[] args) {
 

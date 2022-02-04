@@ -1,11 +1,11 @@
-package org.souza.charles.arrays.example.view;
+package org.souza.charles.arrays.playlistExample.view;
 /**
  * Course title: Java Fundamentos
  * Instructor: Leandro Rubim - FIAP
  * Example adapted by: Charles Fernandes de Souza
  * Date: January 30, 2022
  */
-import org.souza.charles.arrays.example.entity.Product;
+import org.souza.charles.arrays.playlistExample.entity.Product;
 
 public class App {
     public static void main(String[] args) {

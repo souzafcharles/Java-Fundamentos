@@ -1,4 +1,4 @@
-package org.souza.charles.collections.example;
+package org.souza.charles.collections.digitalContentExample;
 /**
  * Course title: Java Fundamentos
  * Instructor: Fernando Lima - FIAP

@@ -1,4 +1,4 @@
-package org.souza.charles.arrays.example.entity;
+package org.souza.charles.arrays.playlistExample.entity;
 /**
  * Course title: Java Fundamentos
  * Instructor: Fernando Lima - FIAP

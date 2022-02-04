@@ -1,4 +1,4 @@
-package org.souza.charles.arrays.exercise;
+package org.souza.charles.arrays.digitalContentExample;
 /**
  * Course title: Java Fundamentos
  * Instructor: Fernando Lima - FIAP
@@ -8,7 +8,7 @@ package org.souza.charles.arrays.exercise;
 
 import java.util.Scanner;
 
-public class ExerciseArray {
+public class ArrayExample {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
