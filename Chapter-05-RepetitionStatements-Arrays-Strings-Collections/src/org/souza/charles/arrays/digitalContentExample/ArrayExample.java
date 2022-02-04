@@ -5,7 +5,6 @@ package org.souza.charles.arrays.digitalContentExample;
  * Example adapted by: Charles Fernandes de Souza
  * Date: January 30, 2022
  */
-
 import java.util.Scanner;
 
 public class ArrayExample {
