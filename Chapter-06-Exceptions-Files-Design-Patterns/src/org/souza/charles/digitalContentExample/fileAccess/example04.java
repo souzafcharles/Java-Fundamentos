@@ -1,5 +1,9 @@
 package org.souza.charles.digitalContentExample.fileAccess;
-
+/**
+ * Course title: Java Fundamentos
+ * Example adapted by: Charles Fernandes de Souza
+ * Date: February 04, 2022
+ */
 import java.io.File;
 
 public class example04 {
