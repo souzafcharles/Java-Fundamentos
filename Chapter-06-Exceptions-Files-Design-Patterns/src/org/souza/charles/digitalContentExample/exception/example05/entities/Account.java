@@ -1,4 +1,4 @@
-package org.souza.charles.digitalContentExample.exception.example05;
+package org.souza.charles.digitalContentExample.exception.example05.entities;
 /**
  * Course title: Java Fundamentos
  * Example adapted by: Charles Fernandes de Souza

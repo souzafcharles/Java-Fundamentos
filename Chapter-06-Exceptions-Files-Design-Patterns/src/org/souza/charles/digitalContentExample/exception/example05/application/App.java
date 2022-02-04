@@ -1,9 +1,11 @@
-package org.souza.charles.digitalContentExample.exception.example05;
+package org.souza.charles.digitalContentExample.exception.example05.application;
 /**
  * Course title: Java Fundamentos
  * Example adapted by: Charles Fernandes de Souza
  * Date: February 04, 2022
  */
+import org.souza.charles.digitalContentExample.exception.example05.entities.Account;
+
 public class App {
     public static void main(String[] args) {
         // Create a new Account instance

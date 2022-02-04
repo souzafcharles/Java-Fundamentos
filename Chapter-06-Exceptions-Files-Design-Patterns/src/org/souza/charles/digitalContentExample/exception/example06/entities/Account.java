@@ -1,9 +1,12 @@
-package org.souza.charles.digitalContentExample.exception.example06;
+package org.souza.charles.digitalContentExample.exception.example06.entities;
 /**
  * Course title: Java Fundamentos
  * Example adapted by: Charles Fernandes de Souza
  * Date: February 04, 2022
  */
+import org.souza.charles.digitalContentExample.exception.example06.utils.InsufficientBalanceException;
+import org.souza.charles.digitalContentExample.exception.example06.utils.InvalidValueException;
+
 import java.io.Serializable;
 
 public class Account implements Serializable {
@@ -27,7 +30,7 @@ public class Account implements Serializable {
         balance += value;
     }
 
-    public void withdraw(double value) throws InsufficientBalanceException{
+    public void withdraw(double value) throws InsufficientBalanceException {
         if (value> balance){
             throw new InsufficientBalanceException("Insufficient Value Balance!");
         }
