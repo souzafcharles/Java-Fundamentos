@@ -13,17 +13,19 @@
 
 ## Chapters Hands On Schedule:
 
-:open_file_folder: Chapter 2 - [IDES, Variáveis, Conversões e Hello World](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-02-IDES-Variables-Conversions-Hello-World)
+:open_file_folder: Chapter 2 - [IDES, Variables, Conversions and Hello World](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-02-IDES-Variables-Conversions-Hello-World)
 
-:open_file_folder: Chapter 3 - [Classe, Métodos, Atributos](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-03-Class-Methods-Attributes)
+:open_file_folder: Chapter 3 - [Class, Methods and Attributes](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-03-Class-Methods-Attributes)
 
-:open_file_folder: Chapter 4 - [Herança](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-04-Inheritance)
+:open_file_folder: Chapter 4 - [Inheritance](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-04-Inheritance)
 
-:open_file_folder: Chapter 5 - [Estruturas de Repetição, Arrays, Strings e Coleções](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-05-RepetitionStatements-Arrays-Strings-Collections)
+:open_file_folder: Chapter 5 - [Repetition Statements, Arrays, Strings and Collections](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-05-RepetitionStatements-Arrays-Strings-Collections)
 
 :open_file_folder: Chapter 6 - [Exceptions, Files, Design Patterns](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-06-Exceptions-Files-Design-Patterns)
 
-:open_file_folder: Chapter 7 - Acesso ao Banco de Dados 
+:open_file_folder: Chapter 7 - Database Access
+
+
   
 
 ### :link: [FIAP Nano Courses Information](https://www.fiap.com.br/graduacao/#nano-courses) 
