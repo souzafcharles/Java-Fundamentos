@@ -13,6 +13,8 @@
 
 ## Chapters Hands On Schedule:
 
+:open_file_folder: Chapter 1 - [Object-Oriented](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-01-Object-Oriented)
+
 :open_file_folder: Chapter 2 - [IDES, Variables, Conversions and Hello World](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-02-IDES-Variables-Conversions-Hello-World)
 
 :open_file_folder: Chapter 3 - [Class, Methods and Attributes](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-03-Class-Methods-Attributes)
