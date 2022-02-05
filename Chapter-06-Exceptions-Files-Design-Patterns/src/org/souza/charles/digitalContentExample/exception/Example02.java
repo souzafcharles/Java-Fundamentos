@@ -4,7 +4,7 @@ package org.souza.charles.digitalContentExample.exception;
  * Example adapted by: Charles Fernandes de Souza
  * Date: February 04, 2022
  */
-public class example02 {
+public class Example02 {
     public static void main(String[] args) {
 
         int[] array = new int[2];

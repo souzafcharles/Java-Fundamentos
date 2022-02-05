@@ -7,7 +7,7 @@ package org.souza.charles.digitalContentExample.fileAccess;
 import java.io.File;
 import java.io.IOException;
 
-public class example03 {
+public class Example03 {
 
     public static void main(String[] args) {
 

@@ -7,7 +7,7 @@ package org.souza.charles.digitalContentExample.exception;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class example03 {
+public class Example03 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

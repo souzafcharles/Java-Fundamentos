@@ -6,7 +6,7 @@ package org.souza.charles.digitalContentExample.exception;
  */
 import java.util.Scanner;
 
-public class example01 {
+public class Example01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         float number1 = sc.nextInt();

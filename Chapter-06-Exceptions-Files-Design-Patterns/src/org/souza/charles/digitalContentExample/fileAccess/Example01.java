@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class example01 {
+public class Example01 {
     public static void main(String[] args) {
         try {
             FileWriter stream = new FileWriter("file.txt");
