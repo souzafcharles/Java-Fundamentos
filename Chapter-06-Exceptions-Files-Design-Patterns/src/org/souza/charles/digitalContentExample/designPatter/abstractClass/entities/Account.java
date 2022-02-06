@@ -5,6 +5,7 @@ package org.souza.charles.digitalContentExample.designPatter.abstractClass.entit
  * Date: February 04, 2022
  */
 import org.souza.charles.digitalContentExample.designPatter.abstractClass.utils.InsufficientBalanceException;
+import org.souza.charles.playlistExample.desingPatter.utils.InvalidValueException;
 
 public abstract class Account{
     protected double balance;
@@ -17,4 +18,5 @@ public abstract class Account{
     }
     public abstract double checkBalance();
 }
+
 

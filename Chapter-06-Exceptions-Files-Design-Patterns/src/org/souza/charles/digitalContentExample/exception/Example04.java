@@ -5,6 +5,7 @@ package org.souza.charles.digitalContentExample.exception;
  * Date: February 04, 2022
  */
 public class Example04 {
+    
     public int divide(int n1, int n2) {
         try {
             return n1 / n2;
