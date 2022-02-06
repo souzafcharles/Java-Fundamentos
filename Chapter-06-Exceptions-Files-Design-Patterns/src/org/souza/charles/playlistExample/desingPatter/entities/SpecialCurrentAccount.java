@@ -24,7 +24,6 @@ public class SpecialCurrentAccount extends CurrentAccount implements Transferabl
         return balance + limit;
     }
 
-
     @Override
     public boolean performDoc(int bankNumber, int agencyNumber, int accountNumber, double value) {
         return false;
