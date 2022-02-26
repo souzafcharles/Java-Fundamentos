@@ -25,7 +25,7 @@
 
 :open_file_folder: Chapter 6 - [Exceptions, Files, Design Patterns](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-06-Exceptions-Files-Design-Patterns)
 
-:open_file_folder: Chapter 7 - Database Access
+:open_file_folder: Chapter 7 - [Database Access](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-07-Database-Access)
 
 
   
