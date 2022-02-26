@@ -24,16 +24,13 @@ public class ConnectionTest {
 			ResultSet result = preparedStatement.executeQuery();
 
 			while (result.next()) {
-
 				System.out.println( result.getInt("product_cd") + " " +
 						result.getString("nm_product") + " " +
 						result.getDouble("vl_product") + " " +
 						result.getDate("dt_expiration"));
-
 			}
 
 			connection.close();
-
 		} catch (SQLException e) {
 			System.err.println("Could not connect!");
 			e.printStackTrace();
