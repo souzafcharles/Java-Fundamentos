@@ -11,6 +11,8 @@
 
    - :black_nib: Java Development Kit used: [17](https://www.oracle.com/java/technologies/downloads/)
 
+   - :black_square_button: SGBD Interface used: [DB Browser for SQLite](https://sqlitebrowser.org/)
+
 ## Chapters Hands On Schedule:
 
 :open_file_folder: Chapter 1 - [Object-Oriented](https://github.com/souzafcharles/Java-Fundamentos/tree/master/Chapter-01-Object-Oriented)
